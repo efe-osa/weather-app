@@ -80,7 +80,7 @@ export default function CurrentWeather({ data }) {
                   component="div"
                   color={"text.secondary"}
                 >
-                  Today's weather:
+                  Today&apos;s weather:
                 </Typography>
                 <Box>
                   <Image
